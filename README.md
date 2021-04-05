@@ -1,7 +1,7 @@
 # sentiment_analysis_headlines
 
 ## What does it do?
-This scrapes the each headlines news for the desired stock on the following website: finviz, marketplace, google news, and applies Vader to find an overall sentiment of the given day based on all the headlines given by the website and then shows a graph
+This scrapes each headlines news for the desired stock on the following website: finviz, marketplace, google news, and applies Vader to find an overall sentiment of the given day based on all the headlines given by the website and then shows a graph
 
 ## How do you read the graphs?
 The scores are between 1 and -1 on the y-axis.
