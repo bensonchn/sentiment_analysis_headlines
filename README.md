@@ -3,6 +3,10 @@
 ## What does it do?
 This scrapes the each headlines news for the desired stock on the following website: finviz, marketplace, google news, and applies Vader to find an overall sentiment of the given day based on all the headlines given by the website and then shows a graph
 
+## How do you read the graph
+The scores are between 1 and -1.
+The closer to 1 the better, and vice versa.
+
 ## Conclusion 
 In this test, I found that different website will not have the exact same news: news might be missing but with three different websites we can overall assess a feeling of what the market might feel. We can also assess if the website may have biases¶
 
