@@ -8,6 +8,10 @@ The scores are between 1 and -1 on the y-axis.
 
 The closer to 1 the better, and vice versa.
 
+## Things that can be improved
+The vader library or other common ones (NLTK or Textblob) arent refined enough to understand fully the headlines whether or not they are good or bad.
+The library can be fine tuned to have more accurate representation of the headlines sentiments
+
 ## Conclusion 
 In this test, I found that different website will not have the exact same news: news might be missing but with three different websites we can overall assess a feeling of what the market might feel. We can also assess if the website may have biases¶
 
